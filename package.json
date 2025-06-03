@@ -1,0 +1,24 @@
+{
+  "name": "reseni-projekt-cestovka",
+  "version": "1.0.0",
+  "description": "Dobrovolný úkol pro kurz Staň se kóderkou od Czechitas.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czechitas-Koderka-podklady/reseni-projekt-cestovka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czechitas-Koderka-podklady/reseni-projekt-cestovka/issues"
+  },
+  "homepage": "https://github.com/Czechitas-Koderka-podklady/reseni-projekt-cestovka#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.0"
+  }
+}

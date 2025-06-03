@@ -15,6 +15,11 @@ Cílem projektu je procvičit si založení projektu v Eleventy a vytvoření z�
 - udělej si fork tohoto repozitáře
 - v repozitáři je pouze tento návod, takže pokud nepotřebuješ, aby byl návod součástí projektu, můžeš si klidně na GitHubu založit úplně nový (prázdný) repozitář a vyzkoušet si tak, jak bys postupovala například u svého vlastního projektu
 - repozitář si naklonuj k sobě na počítač
+- pokud si vytvářila svůj vlastní repozitář (a ne kopii repozitáře s tímto zadáním), vytvoř si v projektu soubor `.gitignore` a napiš do něj minimálně následující dva řádky:
+  ```
+  node_modules/
+  _site/
+  ```
 
 ### Instalace Eleventy
 
