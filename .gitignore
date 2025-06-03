@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Eleventy output directory (default)
+_site/
+
+# Optional: custom output dir if changed in eleventy.vonfig.js
+# dist/
+# public/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment files
+.env
+.env.*.local
+
+# VS Code
+.vscode/
+
+# npm/yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Parcel, Vite, or Webpack cache (if used)
+.cache/
+dist/
